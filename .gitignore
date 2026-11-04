@@ -1,0 +1,7 @@
+node_modules/
+natacion.db
+natacion.db.lock/
+database/.session-secret
+exports/
+backups/
+*.log
